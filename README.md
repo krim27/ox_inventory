@@ -1,4 +1,8 @@
 # ox_inventory
+![20240615221628_1](https://github.com/krim27/ox_inventory/assets/92454198/8f59e364-fead-4829-949b-fc24fa18f5c6)
+![20240615221633_1](https://github.com/krim27/ox_inventory/assets/92454198/71fa842f-c3ac-4942-a11c-9c62561b7073)
+![20240615224941_1](https://github.com/krim27/ox_inventory/assets/92454198/d8afac72-c77b-4ad8-9362-3d8dc29efadb)
+![20240615225009_1](https://github.com/krim27/ox_inventory/assets/92454198/3a3abd00-1c69-455e-b608-ba906e130b3d)
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
@@ -7,9 +11,12 @@ A complete inventory system for FiveM, implementing items, weapons, shops, and m
 ![](https://img.shields.io/github/contributors/overextended/ox_inventory?logo=github)
 ![](https://img.shields.io/github/v/release/overextended/ox_inventory?logo=github)
 
+
 ## 📚 Documentation
 
+
 https://overextended.dev/ox_inventory
+
 
 ## 💾 Download
 
